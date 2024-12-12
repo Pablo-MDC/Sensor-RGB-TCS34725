@@ -1,0 +1,1 @@
+Repositorio que contiene el código necesario para desarrollar un sensor de colores con un Led RGB mediante el programa Arduino creado por Kevin Emmanuel Ruvalcaba Ruvalcaba y Pablo Alberto Martin del Campo Gil.
